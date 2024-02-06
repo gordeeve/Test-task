@@ -21,3 +21,5 @@
 
 
 - In some cases, you should go inside container with php and run `php artisan key:generate`
+
+- run `php artisan migrate --seed`
